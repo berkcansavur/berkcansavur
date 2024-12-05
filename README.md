@@ -3,11 +3,11 @@
 
 ## 💼 **Professional Experience**:
   - **Software Engineer**  
-    Cormind (Aug 2024 – Present)  
+    **Cormind** (Aug 2024 – Present)  
     Working remotely on backend development and system design for Cormind ERP system management application.
 
   - **Software Engineer II**  
-    Getir (Mar 2024 – Aug 2024)  
+    **Getir** (Mar 2024 – Aug 2024)  
     Contributed as a key member of the Market Order Checkout Funnel team, focusing on microservices architecture to enhance the checkout process.
     Delivered significant monitoring improvements, enhancing system observability and reducing downtime risks.
     Achieved major cost reduction through optimized AWS infrastructure usage and efficient resource management.
@@ -15,11 +15,11 @@
     Successfully implemented the post-order service architecture, ensuring seamless and reliable user experiences.
 
   - **Software Engineer**  
-    Ollang (Dec 2023 – Mar 2024)  
+    **Ollang** (Dec 2023 – Mar 2024)  
     Specialized in designing microservices architecture for AI-based translation applications, collaborating closely with the Order team to align business needs with technical solutions.
 
   - **Software Engineer**  
-    Grupas Teknoloji (Jul 2022 – Jun 2023)  
+    **Grupas Teknoloji** (Jul 2022 – Jun 2023)  
     Built scalable solutions using .Net, Node.js, and Java.
 
 ## 🌐 **Backend Development**  
