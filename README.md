@@ -1,8 +1,7 @@
 ## About Me
-
-
 - 🔭 I’m currently working on Cormind as a Software Engineer.
-- 💼 **Professional Experience**:
+- 
+## 💼 **Professional Experience**:
   - **Software Engineer**  
     Cormind (Aug 2024 – Present)  
     Working remotely on backend development and system design for Cormind ERP system management application.
@@ -19,7 +18,7 @@
     Grupas Teknoloji (Jul 2022 – Jun 2023)  
     Built scalable solutions using .Net, Node.js, and Java.
 
-- 🌐 **Backend Development**  
+## 🌐 **Backend Development**  
   Proficient in Go, Node.js, and NestJS.  
   Experienced in designing RESTful APIs, GraphQL, and WebSocket-based real-time communication systems.  
   Expertise in broker-based communication with Kafka and RabbitMQ.  
@@ -27,8 +26,8 @@
   Expertise in clean architecture and modular design principles.  
   Skilled in infrastructure management with tools like Docker, Kubernetes, Terraform, and CI/CD pipelines using Jenkins and GitLab CI.
 
-- 📫 **How to reach me**:  
+## 📫 **How to reach me**:  
   Feel free to reach out via LinkedIn or explore my repositories to learn more about my work.
 
-🎓 **Education**:  
+## 🎓 **Education**:  
   Bachelor's Degree in Industrial Engineering, Yıldız Technical University.
