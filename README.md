@@ -1,6 +1,5 @@
-## Hi there 👋
+## About Me
 
-**berkcansavur/berkcansavur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Cormind as a Software Engineer.
 - 💼 **Professional Experience**:
@@ -19,10 +18,6 @@
   - **Software Engineer**  
     Grupas Teknoloji (Jul 2022 – Jun 2023)  
     Built scalable solutions using .Net, Node.js, and Java.
-
-  - **Software Developer Intern**  
-    Grupas Teknoloji (Nov 2021 – Dec 2021)  
-    Developed web-based applications with HTML, CSS, and JavaScript.
 
 - 🌐 **Backend Development**  
   Proficient in Go, Node.js, and NestJS.  
