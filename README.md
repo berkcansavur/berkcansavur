@@ -8,7 +8,7 @@ As a software engineer, I possess in-depth expertise in microservice architectur
 
   - **Software Engineer II**  
     **Getir** (Mar 2024 – Aug 2024)  
-    Contributed as a key member of the Market Order Checkout Funnel team, focusing on microservices architecture to enhance the checkout process.
+    Worked as a key member of the Market Order Checkout Funnel team, focusing on microservices architecture to enhance the checkout process.
     Delivered significant monitoring improvements, enhancing system observability and reducing downtime risks.
     Achieved major cost reduction through optimized AWS infrastructure usage and efficient resource management.
     Drove the integration of AWS services to streamline workflows and increase system robustness.
