@@ -32,6 +32,7 @@ As a software engineer, I possess in-depth expertise in microservice architectur
 
 ## 📫 **How to reach me**:  
   Feel free to reach out via LinkedIn or explore my repositories to learn more about my work.
+  - Here is my personal web site link: https://berkcansavur.up.railway.app, you can reach me due to contact page 
 
 ## 🎓 **Education**:  
   Bachelor's Degree in Industrial Engineering, Yıldız Technical University.
