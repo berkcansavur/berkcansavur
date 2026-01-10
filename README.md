@@ -35,7 +35,7 @@ As a software engineer, I possess in-depth expertise in microservice architectur
     Built scalable solutions using .Net, Node.js, and Java.
 
 ## 🌐 **Backend Development**  
-  - Proficient in Go, Node.js, and NestJS.  
+  - Proficient in JAVA, Node.js, Go, and NestJS.  
   - Experienced in designing RESTful APIs, GraphQL, and WebSocket-based real-time communication systems.  
   - Expertise in broker-based communication with Kafka and RabbitMQ.  
   - Proficient with Docker for containerization and AWS for cloud services.  
