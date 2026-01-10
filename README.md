@@ -2,8 +2,20 @@
 As a software engineer, I possess in-depth expertise in microservice architecture, domain-driven design (DDD), event-driven architecture, object-oriented programming (OOP), and clean architecture principles. I specialize in crafting scalable, resilient, and high-performance systems that align with business goals. My approach integrates best practices in system design, ensuring flexibility and maintainability in complex, distributed environments.
 
 ## 💼 **Professional Experience**:
+ - **Software Engineer**  
+    **Martı Technologies** (July 2025 – Present)  
+    • Served as a primary contributor to Marti’s Courier domain, leading key components of its end-to-end design and enabling the
+    launch of a new business vertical.
+    • Delivered an asynchronous end-to-end test service that ensures cross-domain reliability, orchestrates real-time workflow
+    simulations, and integrates seamlessly with Postman Flows.
+    • Delivered Marti’s Reservation domain, implemented Cron operations and ensured state consistency via Event-Bus pattern.
+    • Designed and maintained real-time Booking & Matching services powering ride matching, dynamic pricing flows, and mission-
+    critical booking logic under strict latency SLAs.
+    • Increased reliability and consistency of the Matching domain by re-architecting synchronization flows and implementing
+    deterministic low-latency decision pipelines.
+  
   - **Software Engineer**  
-    **Cormind** (Aug 2024 – Present)  
+    **Cormind** (Aug 2024 – July 2025)  
     Working remotely on backend development and system design for Cormind ERP system management application.
 
   - **Software Engineer II**  
